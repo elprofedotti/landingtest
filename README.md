@@ -26,7 +26,7 @@ Puedes ver el proyecto en línea a través del siguiente enlace:
 [elprofedotti.com.ar/lp](http://elprofedotti.com.ar/lp)
 
 ### 📜 Licencia
-Este proyecto es de código abierto y está disponible bajo la licencia [MIT](LICENSE).
+Este proyecto es de código abierto.
 
 
 ### 📞 Contacto
