@@ -831,10 +831,7 @@ color: var(--color-secundario);
     height: auto; /* Mantiene proporción de la imagen */
 }
 
-/* Me aseguro que efecto hover se aplique solo a img */
-.team-card .profile-img img:hover {
-    transform: scale(1.05); /* Aumenta tamaño de la imagen*/
-}
+
 .team-card .card {
     border-radius: 15px;
     overflow: hidden;
@@ -857,7 +854,8 @@ color: var(--color-secundario);
     position: absolute;
     top: -50px; /* Ajusta para que la imagen sobresalga del card */
     left: 50%;
-    transform: translateX(-50%);
+    margin-left: -60px;
+    /* transform: translateX(-50%); */
     width: 120px; /* Tamaño de la imagen de perfil */
     height: 120px;
     overflow: hidden;
@@ -885,8 +883,14 @@ color: var(--color-secundario);
     color: var(--color-secundario);
 }
 
-.team-card .profile-img:hover img {
-    transform: scale(1.05); /* Aumenta el tamaño de la imagen */
+/* Elimino cualquier efecto hover en la imagen de perfil */
+.team-card .profile-img img:hover {
+    transform: none;
+}
+
+/* Elimina cualquier efecto hover en el contenedor de la imagen de perfil */
+.team-card .profile-img:hover {
+    transform: none;
 }
 
 /* Ocultar carrusel móvil en pantallas más grandes */
