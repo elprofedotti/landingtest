@@ -7,9 +7,9 @@ Este proyecto consiste en la creación de una página web interactiva como parte
 
 ### 👥 Integrantes
 - Rocío Leggerini
-- Matías Dotti
 - Noelia Cores
 - Maximiliano Gauthier
+- Matías Dotti
 
 ### 💻 Tecnologías Utilizadas
 - **HTML:** Estructura del sitio web.
