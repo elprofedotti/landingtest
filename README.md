@@ -1,4 +1,4 @@
-# 📘 Trabajo Práctico Obligatorio - CaC - Comision # 24188 - [Grupo 18 ] -
+# 📘 Trabajo Práctico Obligatorio - CaC - Comision # 24188 - Grupo 18
 
 ## 🌐 Desarrollo Web HTML, CSS y JavaScript
 
